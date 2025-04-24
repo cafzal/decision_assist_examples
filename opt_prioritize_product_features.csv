@@ -1,30 +1,35 @@
 option_name,User Engagement,Development Effort,Market Uniqueness,Decision Clarity,Scalability,Operating Cost,Data Capture
-Enhanced Guided Framing,8.5,15,85,8.7,10000,5.50,12
-Data collection,6.2,10,65,7.8,25000,3.25,18
-Results generation,7.8,25,75,8.2,5000,7.80,8
-Results interpretation,8.0,20,80,8.5,8000,6.50,10
-Advanced Results Visualization,8.7,30,85,9.0,4000,9.75,6
-Sharing and actioning,7.5,15,70,8.0,15000,4.25,9
-Feedback mechanisms,6.8,12,60,7.5,20000,3.50,15
-Improved Feedback Integration,7.2,18,65,8.1,12000,5.25,14
-User data storage,5.5,20,50,6.5,30000,8.50,20
-Decision Audit Trail,6.0,15,60,7.0,25000,4.75,16
-Collaborative Decision-Making,8.2,35,90,8.8,3000,12.50,11
-Automated Objective Suggestion,8.3,30,95,8.3,6000,9.25,13
-Personalized Recommendations,8.8,40,85,8.6,4500,11.00,9
-API & Integration Readiness,5.8,25,70,6.8,35000,7.50,14
-Easily define objectives,7.5,12,65,8.4,20000,3.75,10
-Easily define options,7.3,10,60,8.2,22000,3.50,11
-Set optimization approach and mode/speed,6.5,15,75,7.8,15000,5.00,7
-Configure constraints and aggregations,6.0,18,80,7.5,10000,5.75,9
-Crawl web data to score options,7.8,35,90,8.0,5000,14.50,15
-Integrate with common data sources,6.5,30,65,7.2,18000,10.25,17
-Refine optimization search,6.2,22,70,7.0,8000,8.75,8
-Enable seeded iteration modes,5.8,20,85,6.8,9000,7.25,10
-Assign scenario probabilities,6.5,15,75,7.5,12000,5.50,12
-Analyze result outcome variance,7.0,25,80,7.8,7000,9.00,11
-Curate and save solution sets,7.2,18,65,8.0,15000,6.00,13
-Link and integrate actions to solutions,7.5,28,80,8.2,10000,8.25,12
-Capture feedback and measure impact,7.8,22,70,8.5,13000,6.75,16
-Multi-user collaboration,8.0,32,85,8.0,5000,11.50,10
-Solution sharing features,7.5,20,75,8.1,12000,5.25,9
+Problem framing: Easily define objectives,7.5,12,65,8.4,20000,3.75,10
+Problem framing: Easily define options,7.3,10,60,8.2,22000,3.50,11
+Problem framing: Set optimization approach and mode/speed,6.5,15,75,7.8,15000,5.00,7
+Problem framing: Configure constraints and aggregations,6.0,18,80,7.5,10000,5.75,9
+Problem framing: Enhanced Guided Framing,8.5,15,85,8.7,10000,5.50,12
+Data collection: Crawl web data to score options,7.8,35,90,8.0,5000,14.50,15
+Data collection: Integrate with common data sources,6.5,30,65,7.2,18000,10.25,17
+Results analysis: Results interpretation,8.0,20,80,8.5,8000,6.50,10
+Results analysis: Advanced Results Visualization,8.7,30,85,9.0,4000,9.75,6
+Results analysis: Help refine/filter/weight objectives,7.2,15,70,8.3,12000,4.50,11
+Reduce UX friction: Refine interface,7.0,20,75,8.0,15000,6.00,9
+Reduce UX friction: Refine workflow,7.3,18,70,8.1,13000,5.25,10
+Reduce UX friction: In-app demos,6.8,25,65,7.5,10000,7.50,8
+Reduce UX friction: Config files,6.5,15,60,7.8,18000,4.00,12
+Deeper optimization: Refine optimization search,6.2,22,70,7.0,8000,8.75,8
+Deeper optimization: Enable seeded iteration modes,5.8,20,85,6.8,9000,7.25,10
+Deeper optimization: Other algorithms,6.0,30,80,7.2,6000,10.50,7
+Deeper optimization: Optimization evals,6.5,18,75,7.5,7000,8.00,9
+AI quality: More detailed evals & metrics,7.5,25,80,8.0,5000,9.50,10
+AI quality: Interpretability,7.8,20,75,8.2,6500,7.75,11
+AI quality: Improve prompts,7.2,15,70,8.1,8000,5.50,12
+Action results: Curate and save solution sets,7.2,18,65,8.0,15000,6.00,13
+Action results: Link and integrate actions to solutions,7.5,28,80,8.2,10000,8.25,12
+Action results: Capture feedback: measure impact & decision audit trail,7.8,22,70,8.5,13000,6.75,16
+Action results: Share solutions,7.5,20,75,8.1,12000,5.25,9
+Scenario planning: Assign scenario probabilities,6.5,15,75,7.5,12000,5.50,12
+Scenario planning: Analyze result outcome variance,7.0,25,80,7.8,7000,9.00,11
+Scale collaboration: Multi-user collaboration,8.0,32,85,8.0,5000,11.50,10
+Scale collaboration: API & Integration Readiness,5.8,25,70,6.8,35000,7.50,14
+Scale collaboration: Personalization to user role,8.3,30,85,8.4,6000,9.25,12
+Proactive workflows: Recurring run/push based/notifications,7.0,20,75,7.8,9000,6.25,13
+Proactive workflows: Re-run/update given new data detected,7.3,25,80,8.0,8000,7.50,14
+Data storage & enterprise readiness: Central storage of problem data,6.2,18,65,7.2,28000,5.50,18
+Data storage & enterprise readiness: Secure user data storage,5.8,25,70,7.0,35000,9.00,22
