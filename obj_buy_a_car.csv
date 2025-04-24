@@ -1,8 +1,8 @@
-objective_name,direction,aggregation,unit
-Purchase price,minimize,sum,dollars
-Maintenance and reliability,maximize,avg,score
-Seating,maximize,sum,passengers
-Fuel efficiency,maximize,avg,mpg
-Versatility,maximize,avg,score
-Power,maximize,avg,horsepower
-Safety,maximize,avg,score
+objective_name,direction,aggregation,unit,min_value,max_value
+Purchase price,minimize,sum,dollars,,70000
+Maintenance and reliability,maximize,avg,score,7,
+Seating,maximize,sum,passengers,5,
+Fuel efficiency,maximize,avg,mpg,,
+Versatility,maximize,avg,score,,
+Power,maximize,avg,horsepower,150,
+Safety,maximize,avg,score,5,

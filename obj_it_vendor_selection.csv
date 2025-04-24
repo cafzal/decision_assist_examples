@@ -1,6 +1,6 @@
-objective_name,direction,unit,aggregation
-total cost of ownership,minimize,USD,sum
-service reliability,maximize,percentage,avg
-implementation time,minimize,weeks,sum
-security compliance,maximize,score,avg
-vendor stability,maximize,rating,avg
+objective_name,direction,unit,aggregation,min_value,max_value
+total cost of ownership,minimize,USD,sum,,500000
+service reliability,maximize,percentage,avg,98.0,
+implementation time,minimize,weeks,sum,,20
+security compliance,maximize,score,avg,,
+vendor stability,maximize,rating,avg,, 
