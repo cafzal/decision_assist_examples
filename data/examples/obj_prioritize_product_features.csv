@@ -1,0 +1,8 @@
+objective_name,direction,aggregation,unit
+User Engagement,maximize,avg,score
+Development Effort,minimize,sum,days
+Market Uniqueness,maximize,avg,%
+Decision Clarity,maximize,avg,score
+Scalability,maximize,max,users
+Operating Cost,minimize,avg,$
+Data Capture,maximize,avg,fields
