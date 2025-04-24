@@ -1,0 +1,10 @@
+objective_name,direction,aggregation,unit
+Risk/Volatility,minimize,avg,scale
+Expected Return,maximize,sum,percent
+Time Horizon,maximize,avg,years
+Liquidity,maximize,avg,scale
+Diversification,maximize,avg,scale
+Access,maximize,avg,scale
+Tax Efficiency,maximize,avg,scale
+Inflation Protection,maximize,avg,scale
+Fees,minimize,sum,percent
