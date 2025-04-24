@@ -1,5 +1,0 @@
-objective_name,direction,aggregation,unit
-construction cost,minimize,sum,dollars
-operating cost,minimize,sum,dollars
-proximity to customers,minimize,avg,miles
-supply capacity,maximize,sum,tons

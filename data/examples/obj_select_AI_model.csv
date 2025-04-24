@@ -1,8 +1,0 @@
-objective_name,direction,aggregation,unit
-response_time,minimize,avg,seconds
-reasoning,maximize,avg,percentage (avg of MMLU & GPQA)
-blended_cost,minimize,sum,USD (per 1M tokens)
-coherence,maximize,avg,rating
-api_utility,maximize,avg,rating
-context_window,maximize,avg,tokens
-implementation_complexity,minimize,sum,score
