@@ -1,0 +1,5 @@
+objective_name,direction,aggregation,unit,min_value,max_value
+annual compensation,maximize,sum,USD,250000,
+average weekly hours,minimize,sum,hours,,60
+real-world impact,maximize,avg,score,,
+rate of learning,maximize,avg,score,, 

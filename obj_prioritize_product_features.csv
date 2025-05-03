@@ -1,8 +1,8 @@
 objective_name,direction,aggregation,unit,min_value,max_value
-User Engagement,maximize,avg,score,6,
-Development Effort,minimize,sum,days,20,70
+User Engagement,maximize,avg,score,7,
+Development Effort,minimize,sum,weeks,4,16
 Market Uniqueness,maximize,avg,%,,
 Decision Clarity,maximize,avg,score,,
-Scalability,maximize,max,users,,
-Operating Cost,minimize,avg,$,,
+Scalability,maximize,max,runs,,
+Operating Cost,minimize,avg,$/run,,3
 Data Capture,maximize,avg,fields,,

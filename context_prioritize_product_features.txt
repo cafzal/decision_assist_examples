@@ -1,1 +1,7 @@
-I'm building a decision assistant tool. It's still pretty early, and I want to build out the right foundational AI approach, user experience, data structures, and the core optimization itself. I need help figuring out which features to pursue. Since there are a lot of different options and objectives and paths I can take this early on in the product development.
+I'm building a decision assistant tool aimed at data-savvy users in domains like product, marketing, and finance who run at least weekly optimization problems. 
+
+It's still early (prototyping), so I want to build out the right foundational AI approach, user experience, data structures, and the core optimization methods. Easy problem framing and setup along with compelling results with explanation are crucial at this point. 
+
+I need help figuring out which features to pursue at this early stage, since there are a lot of different options and objectives and paths I can take this early on in the product development. The key differentiators will be in guided workflow then increasingly (meta)data and optimization utility as well.
+
+I prefer to start with a simple backend since I'm a solo developer for now, with plans to scale the team if I find commercial traction. 
