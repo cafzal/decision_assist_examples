@@ -1,9 +1,3 @@
-## Context
-
-## Objectives
-
-## Options
-
 ## Data collection
 ### Objectives / Metrics
 * Response time (s): median time‑to‑first‑token from Artificial Analysis
@@ -19,8 +13,8 @@
 * Benchmarks: Artificial Analysis, lm‑eval‑harness dashboards, Hugging Face leaderboards
 * Sentiment: Reddit (Pushshift, ≥ 10 upvotes), X/Twitter (Tweepy), Y Combinator threads
 
-## Scored options
-
 ## Results
 
-## Decision
+### Analysis
+
+### Decision
