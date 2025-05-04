@@ -1,14 +1,14 @@
 ### Examples
-You can use these examples in the app directly or as inspiration for your own problems. 
+You can use these examples in the Decision Assistant app directly or as inspiration for your own problems. 
 
-* **Select an AI model** _-> used when building this app!_
+* **Select an AI model** 
   - [Context](https://github.com/cafzal/decision_assist_examples/blob/main/context_select_ai_model.txt)
   - [Objectives CSV](https://github.com/cafzal/decision_assist_examples/blob/main/obj_select_ai_model.csv)
   - [Scored Options CSV](https://github.com/cafzal/decision_assist_examples/blob/main/opt_select_ai_model.csv)
   - [Data Collection Plan](https://github.com/cafzal/decision_assist_examples/blob/main/plan_select_ai_model.md)
   - Approach: Binary (exclusive or combination)
 
-* **Prioritize product features** _-> used when building this app!_
+* **Prioritize product features** 
   - [Context](https://github.com/cafzal/decision_assist_examples/blob/main/context_prioritize_product_features.txt)
   - [Objectives CSV](https://github.com/cafzal/decision_assist_examples/blob/main/obj_prioritize_product_features.csv)
   - [Scored Options CSV](https://github.com/cafzal/decision_assist_examples/blob/main/opt_prioritize_product_features.csv)
