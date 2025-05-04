@@ -1,5 +1,5 @@
 I’m building an enterprise application that helps users define and navigate multi-objective optimization problems and interpret their results to make a decision. 
 
-I need to select (an) AI model(s) to integrate via API that will assist the user in this workflow. The model will initially be used in a prototype but will then need to scale with enterprise usage. 
+I need to select (an) AI model(s) to integrate via API that will assist the user in this workflow. The model will initially be used in a prototype but will then need to scale with enterprise usage. Reasoning abilities are very important.
 
 If it makes more sense, I could also use multiple models (e.g. one faster/cheaper and another for heavy reasoning), tailoring their usage based on the prompt complexity and performance requirements.

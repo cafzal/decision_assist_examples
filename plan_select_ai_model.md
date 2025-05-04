@@ -10,7 +10,7 @@
 
 ### Data Sources
 * Provider docs & blogs: OpenAI, Anthropic, Google, X.ai (Grok), DeepSeek, Alibaba (Qwen), Meta
-* Benchmarks: Artificial Analysis, lm‑eval‑harness dashboards, Hugging Face leaderboards
+* Benchmarks: Artificial Analysis, vellum, openllm, lm‑eval‑harness dashboards, Hugging Face leaderboards
 * Sentiment: Reddit (Pushshift, ≥ 10 upvotes), X/Twitter (Tweepy), Y Combinator threads
 
 ## Results
