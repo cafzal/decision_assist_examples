@@ -1,6 +1,6 @@
 objective_name,direction,aggregation,unit,min_value,max_value
-speed,minimize,avg,tokens per second,,
-reasoning,maximize,avg,percentage (avg of MMLU & GPQA),75.0,
+speed,maximize,avg,tokens per second,40,
+reasoning,maximize,avg,percentage (avg of MMLU & GPQA),70,
 blended_cost,minimize,sum,USD (1:1 input:output per 1M tokens),,10.0
 coherence,maximize,avg,score,7.0,
 api_utility,maximize,avg,rating,7.0,
